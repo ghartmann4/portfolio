@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](./assets/img/logo.jpg)
+![](./assets/img/logo.jpg){:height="700px" width="416px"}
 
 # About
 
