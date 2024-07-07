@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-![](./assets/img/logo.jpg)
-
 # About
 
 I am a pianist and programmer. I recently completed my doctorate in music; my dissertation is ["The Reciprocal Interaction of Musical Performance and Analysis"](https://academicworks.cuny.edu/gc_etds/5754/).
