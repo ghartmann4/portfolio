@@ -5,7 +5,7 @@ This is a connect four game that you can play against an AI opponent. I wrote th
 ## Minimax Algorithm
 A minimax algorithm works by
 
-In practice, a depth of even 4 or 5 seems to provide an even match for most human players (i.e., my family and friends), and at depth of 7 it plays nearly perfectly.
+In practice, a depth of even just 4-5 seems to provide an even match for most human players (at least for my family and friends), and at depth of 7 it plays nearly perfectly.
 
 ## Alpha-beta Pruning
 
