@@ -21,6 +21,12 @@ This is a connect four game that you can play against an AI opponent. The AI uti
 This program trains an ML model on a database of positive and negative Amazon product reviews. One can apply the trained model to new, unlabeled reviews to predict whether they are positive or negative. Because the model is relatively simple, focusing only on individual words, bigrams, and punctuation, I added an explanation feature that displays a bar graph that helps to show how the label was computed. [Here](./another-page2.html) is a more in-depth description of this project.
 
 
+# Parsimonious Voice Leading in Different Spaces
+
+I presented a paper called "Expanding Parsimony: Exploring an Extended Definition of Parsimony in Pitch-Class Spaces of Higher Cardinalities" at the 2020 meeting of the Society for Music Theory. I wrote a program that calculated different trichords that are parsimoniously related in different cardinalities (that is, in musical systems in which the octave is divided into different numbers of pitch classes). Based on an extended definition of parsimony, I demonstrated the existence of more parsimoniously-related trichords than previously acknowledged.
+. [Here](./another-page2.html) is a more in-depth description of this project.
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
