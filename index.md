@@ -3,6 +3,21 @@ layout: default
 ---
 ![](./assets/img/logo.jpg)
 
+# About
+
+I am a pianist and programmer. I recently completed my doctorate in music; my dissertation is ["The Reciprocal Interaction of Musical Performance and Analysis"](https://academicworks.cuny.edu/gc_etds/5754/).
+
+During my doctorate, I held a Digital Fellowship through the Graduate Center's Digital Initiatives (GCDI). In this capacity, I led workshops on digital skills, held consultations, ran the Python User Group, and helped develop various other projects and initiatives. In the summer of 2024, I taught the GC Summer Python Intensive.
+
+In my free time, I like to build things. Some of my coding projects can be found below!
+
+# Connect Four AI
+
+This is a connect four game that you can play against an AI opponent. The AI utilizes a minimax algorithm that implements alpha-beta pruning to select its moves. [Here](./another-page.html) you can find a more in-depth description of this project.
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -11,9 +26,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
