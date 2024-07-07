@@ -16,6 +16,11 @@ In my free time, I like to build things. Some of my coding projects can be found
 This is a connect four game that you can play against an AI opponent. The AI utilizes a minimax algorithm that implements alpha-beta pruning to select its moves. [Here](./another-page.html) you can find a more in-depth description of this project.
 
 
+# Machine Learning Classification
+
+This program trains an ML model on a database of positive and negative Amazon product reviews. One can apply the trained model to new, unlabeled reviews to predict whether they are positive or negative. Because the model is relatively simple, focusing only on individual words, bigrams, and punctuation, I added an explanation feature that displays a bar graph that helps to show how the label was computed. [Here](./another-page2.html) is a more in-depth description of this project.
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
