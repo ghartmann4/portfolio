@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](./assets/img/logo.jpg){:height="700px" width="416px"}
+![](./assets/img/logo.jpg)
 
 # About
 
@@ -9,7 +9,7 @@ I am a pianist and programmer. I recently completed my doctorate in music; my di
 
 During my doctorate, I held a Digital Fellowship through the Graduate Center's Digital Initiatives (GCDI). In this capacity, I led workshops on digital skills, held consultations, ran the Python User Group, and helped develop various other projects and initiatives. In the summer of 2024, I taught the GC Summer Python Intensive.
 
-In my free time, I like to build things. Some of my coding projects can be found below!
+In my free time, I like to build things. Some of my coding projects can be found below! Here you can find [more about me.](./about-me)
 
 # Connect Four AI
 
