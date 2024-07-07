@@ -1,9 +1,11 @@
 # Connect Four
 
-This is a connect four game that you can play against an AI opponent. I wrote this game from scratch in a way that allows you to play on an n x m board of any size. The AI opponent plays with a minimax algorithm and uses alpha-beta pruning for efficiency. The depth can be changed easily--at higher depths, the program takes longer to run on each turn, but the computer will play more optimally. 
+This is a connect four game that you can play against an AI opponent. I wrote this game from scratch in a way that allows you to choose the size of the n x m board. The AI opponent plays with a minimax algorithm and uses alpha-beta pruning for efficiency. The depth can be changed easily--at higher depths, the program takes longer to run on each turn, but the computer will play more optimally.
 
 ## Minimax Algorithm
 A minimax algorithm works by
+
+In practice, a depth of even 4 or 5 seems to provide an even match for most human players (i.e., my family and friends), and at depth of 7 it plays nearly perfectly.
 
 ## Alpha-beta Pruning
 
