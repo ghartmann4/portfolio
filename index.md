@@ -23,8 +23,7 @@ This program trains an ML model on a database of positive and negative Amazon pr
 
 # Parsimonious Voice Leading in Different Spaces
 
-I presented a paper called "Expanding Parsimony: Exploring an Extended Definition of Parsimony in Pitch-Class Spaces of Higher Cardinalities" at the 2020 meeting of the Society for Music Theory. I wrote a program that calculated different trichords that are parsimoniously related in different cardinalities (that is, in musical systems in which the octave is divided into different numbers of pitch classes). Based on an extended definition of parsimony, I demonstrated the existence of more parsimoniously-related trichords than previously acknowledged.
-. [Here](./another-page2.html) is a more in-depth description of this project.
+I presented a paper called "Expanding Parsimony: Exploring an Extended Definition of Parsimony in Pitch-Class Spaces of Higher Cardinalities" at the 2020 meeting of the Society for Music Theory. I wrote a program that calculated different trichords that are parsimoniously related in different cardinalities (that is, in musical systems in which the octave is divided into different numbers of pitch classes). Based on an extended definition of parsimony, I demonstrated the existence of more parsimoniously-related trichords than previously acknowledged. Find more about this project [here](./another-page3.html).
 
 
 
