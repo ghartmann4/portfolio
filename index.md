@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Greg Hartmann
 ---
 # About
 
