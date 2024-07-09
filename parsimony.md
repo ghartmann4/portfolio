@@ -1,5 +1,16 @@
 # Parsimony in Microtonal Music
 
-Explanation of program
+![image](https://github.com/ghartmann4/portfolio/assets/65510790/4b888974-6a17-42ea-81b1-087341d9171a)
+
+
+Here is Example 1 again, with the pitch-class integers labelled beneath the score. (*) And here is the same voice-leading diagram as before, except with pitch-class integers instead of note names. We now see that this motion actually contains three c-steps from G to A. Under the stricter requirement, this would not be considered parsimonious voice-leading, and would not be considered an R-relationship. However, since in a 19-tone division of the octave, this motion of 3 steps is less than a standard whole-tone, under our expanded definition,  it is an R-relationship.
+
+(*) This table shows the difference between the two interpretations of this requirement, and some of their ramifications. It turns out that under the more restrictive definition, trichords that exhibit such parsimonious relationships are only found in cardinalities that are an integer multiple of three, while under the expanded version this is not the case.
+
+Why do we typically draw the line between a “step” and a “leap” between a major second and a minor third? David Huron explains this question in his article, “Tone and Voice: A Derivation of the Rules of Voice-Leading from Perceptual Principles”. He suggests that the “fission boundary in effect identifies a psychoacoustic basis for the distinction between conjunct and disjunct melodic motions. What theorists call conjunct intervals are virtually guaranteed to evoke the perception of stream continuation.” “Stream continuation” here refers to perceiving of adjacent notes as a single musical line. This suggests that there is a psychoacoustic basis for treating intervals below a certain size as steps­­ and larger intervals as leaps.
+
+(*) Given a cardinality of c, the expanded option allows motion of up to c/6 steps. This table summarizes the allowed voice leading motion under this expanded definition. A key benefit of this expanded definition is that it prevents the motion from becoming imperceptibly small at higher cardinalities. Of course, as c increases, the distance between consecutive pitch-classes becomes smaller. Because of this, it may become more difficult to hear the difference between pitch-classes separated by a single c-step, especially when other notes are interposed between them. Microtonal composer Julia Werntz addresses this, writing of the seventy-two note chromatic scale (*), “the twelfth-tone is presumed to be perceptible in general. However, this does not mean that one can always perceive two pitches a twelfth-tone apart as different, and that one has therefore a chromatic scale with seventy-two automatically independent intervals. In fact, it is apparent that in certain instances one cannot perceive intervals as small as a twelfth-tone. The most important consideration here, with regard to its effect on compositional technique, is the relativity of interval size” (“Adding Pitches” 185). Thus, if we maintain the requirement that parsimonious operations allow only 1 or 2 c-steps of motion, they may become imperceptible at higher cardinalities.  While Werntz is writing from a compositional point of view, I believe that it is similarly important to take this into consideration from an analytical point of view, and therefore use as our guide the “relativity of interval size” rather than an absolute number.
+
+
 
 [Watch the presentation.](https://youtu.be/nT_NuaeOyCs)
