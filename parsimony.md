@@ -1,6 +1,6 @@
 # Parsimony in Microtonal Music
 
-Using a script that I wrote, I demonstrated the existence of parsimonious trichords in music in cardinalities other than 12. [Watch the presentation.](https://youtu.be/nT_NuaeOyCs) Find the code for this project here.
+Using a script that I wrote, I demonstrated the existence of parsimonious trichords in music in cardinalities other than 12. [Watch the presentation.](https://youtu.be/nT_NuaeOyCs) Find the code for this project [here.](https://github.com/ghartmann4/parsimony)
 
 ![image](./assets/img/parsimony.png)
 
