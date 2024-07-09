@@ -1,7 +1,8 @@
 # Parsimony in Microtonal Music
 
-![image](./assets/img/parsimony.png)
+Using a script that I wrote, I demonstrated the existence of parsimonious trichords in music in cardinalities other than 12.
 
+![image](./assets/img/parsimony.png)
 
 Here is Example 1 with the pitch-class integers labelled beneath the score. (*) And here is the same voice-leading diagram as before, except with pitch-class integers instead of note names. We now see that this motion actually contains three c-steps from G to A. Under the stricter requirement, this would not be considered parsimonious voice-leading, and would not be considered an R-relationship. However, since in a 19-tone division of the octave, this motion of 3 steps is less than a standard whole-tone, under our expanded definition,  it is an R-relationship.
 
