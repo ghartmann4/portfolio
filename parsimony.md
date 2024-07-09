@@ -1,6 +1,6 @@
 # Parsimony in Microtonal Music
 
-![image](https://github.com/ghartmann4/portfolio/assets/65510790/4b888974-6a17-42ea-81b1-087341d9171a)
+![image](./assets/img/parsimony.png)
 
 
 Here is Example 1 with the pitch-class integers labelled beneath the score. (*) And here is the same voice-leading diagram as before, except with pitch-class integers instead of note names. We now see that this motion actually contains three c-steps from G to A. Under the stricter requirement, this would not be considered parsimonious voice-leading, and would not be considered an R-relationship. However, since in a 19-tone division of the octave, this motion of 3 steps is less than a standard whole-tone, under our expanded definition,  it is an R-relationship.
