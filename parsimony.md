@@ -4,7 +4,7 @@ Using a script that I wrote, I demonstrated the existence of parsimonious tricho
 
 ![image](./assets/img/parsimony.png)
 
-Here is Example 1, showing simple parsimonious relationships, with the pitch-class integers labelled beneath the score. We now see that this motion actually contains three c-steps from G to A. Under the stricter requirement, this would not be considered parsimonious voice-leading, and would not be considered an R-relationship. However, since in a 19-tone division of the octave, this motion of 3 steps is less than a standard whole-tone, under our expanded definition,  it is an R-relationship.
+Here is Example 1, showing simple parsimonious relationships with the pitch-class integers labelled beneath the score. If we define parsimony based on an absolute distance in acoustic space, we see that the same distance is measured in different number of steps in whatever cardinality "c" we currently reside (hereafter, "c-steps"). The looser requirement allows motions that the stricter requirement does not.
 
 It turns out that under the more restrictive definition of parsimony, trichords that exhibit the parsimonious relationships P, L, and R are only found in cardinalities that are integer multiples of three, while under the expanded version this is not the case.
 
