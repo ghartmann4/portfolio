@@ -12,7 +12,7 @@ In my free time, I like to build things. Some of my coding projects can be found
 
 # Connect Four AI
 
-<img src="./assets/img/connect4-regular.png" alt="connect4" width="500"/>
+<img src="./assets/img/connect4-regular.png" alt="connect4" width="500" class="center"/>
 
 This is a connect four game that you can play against an AI opponent. The AI utilizes a minimax algorithm that implements alpha-beta pruning to select its moves. [Here](./connect-four.html) you can find a more in-depth description of this project.
 
