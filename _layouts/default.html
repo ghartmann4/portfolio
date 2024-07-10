@@ -21,6 +21,20 @@
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <!--<h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
+		<nav id="nav">
+			<ul>
+				<li><a href="./index.html">Home</a></li>
+				<li>
+					<a href="#">Projects</a>
+					<ul>
+						<li><a href="./connect-four.html">Connect4 Minimax</a></li>
+						<li><a href="./ML-reviews.html">Machine Learning Review Rating</a></li>
+						<li><a href="./parsimony.html">Parsimony</a></li>
+						
+					</ul>
+				</li>
+			</ul>
+		</nav>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
