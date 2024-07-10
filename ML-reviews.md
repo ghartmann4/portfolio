@@ -8,10 +8,10 @@ Machine Learning models are powerful ways to find patterns in large amounts of d
 
 Because this model relies only on words, bigrams (two-word pairs), and punctuation, it is actually relatively easy to understand how a rating was derived. This is in contrast to more complicated ML models, which may have multiple hidden layers of calculations, or simply too many dimensions to visualize or reason about. In this case, though, words and bigrams are associated with positive or negative reviews, and given certain weights. The "Explain Classification" function displays a bar graph of the 5 most influential positive and 5 most influential negative elements along with the overall weighted average and classification.
 
-Using this model, it is fun to enter your own product reviews and to see how the model performs. 4,000 reviews is actually a relatively small number to be trained on, so there are lots of words the model has never seen before, and it understandably makes mistakes in confusing cases. That said, some of the things that it does gauge accurately are pretty cool. For instance:
+Using this model, it is fun to enter your own product reviews and to see how the model performs. 4,000 reviews is actually a relatively small number to be trained on, so there are lots of words the model has never seen before, and it understandably makes mistakes in confusing cases. It tends to perform better on more verbose responses, which makes sense. That said, some of the things that it does gauge accurately are pretty cool. For instance:
 
-"Wow!" is predicted as a positive review while
-"wow." is predicted as a negative review
+"wow." is rated as a negative review while
+"Wow!!" is rated as a positive review
 
 ## Perceptron, SVM, Pegasos
 
