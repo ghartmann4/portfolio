@@ -1,5 +1,7 @@
 # Machine Learning
 
+![image](./assets/img/ML-classifier-graph.png)
+
 description and image
 
 ## Perceptron, SVM, Pegasos
