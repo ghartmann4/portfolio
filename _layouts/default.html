@@ -18,13 +18,11 @@
     <div id="container">
       <div class="inner">
 
-        <header style="position: relative; top: -20px;">
-          <h1 class="mtn">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <header>
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <!--<h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
 		<nav id="nav">
-			<ul>
-				<li><a href="./index.html">Home</a></li>
-			</ul>
+			<li><a href="./index.html">Home</a></li>
 		</nav> 
         </header>
         <!--<section id="downloads" class="clearfix">
