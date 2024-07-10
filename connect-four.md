@@ -1,6 +1,5 @@
 # Connect Four
 
-![](./assets/img/connect4-regular.png)
 <img src="./assets/img/connect4-regular.png" alt="connect4" width="600"/>
 
 Gameplay image on standard board
