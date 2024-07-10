@@ -15,11 +15,4 @@ Using this model, it is fun to enter your own product reviews and to see how the
 
 I encourage you to take a look at [the code](https://github.com/ghartmann4/ML-review-classifier) and try writing some of your own reviews for the model to classify!
 
-## Perceptron, SVM, Pegasos
-
-blah blah blah
-
-## Tuning Parameters
-
-explanation
 
