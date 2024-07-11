@@ -1,3 +1,7 @@
+---
+layout: test
+title: About
+---
 ![](./assets/img/logo.jpg)
 # About
 
