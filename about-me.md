@@ -2,7 +2,7 @@
 layout: test
 title: About
 ---
-![](./assets/img/logo.jpg)
+<img src="./assets/img/logo.jpg" alt="headshot" width="400"/>
 # About
 
 I am a pianist and programmer. I recently completed my doctorate in music; my dissertation is ["The Reciprocal Interaction of Musical Performance and Analysis"](https://academicworks.cuny.edu/gc_etds/5754/).
