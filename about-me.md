@@ -2,7 +2,7 @@
 layout: test
 title: About
 ---
-<img src="./assets/img/logo.jpg" alt="headshot" width="500"/>
+<img src="./assets/img/logo.jpg" alt="headshot" width="550"/>
 
 # About
 
