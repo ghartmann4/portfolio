@@ -1,3 +1,7 @@
+---
+layout: test
+title: Machine Learning Classifier
+---
 # Machine Learning
 
 ![image](./assets/img/ML-classifier-graph.png)
