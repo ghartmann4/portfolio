@@ -1,3 +1,7 @@
+---
+layout: test
+title: Connect Four AI
+---
 # Connect Four
 
 <img src="./assets/img/connect4-regular.png" alt="connect4" width="600"/>
