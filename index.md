@@ -4,7 +4,7 @@ title: Greg Hartmann
 ---
 # About
 
-I am a pianist and programmer. I work part time as a ML Dev at [Neostella](https://www.neostella.com/about/), and am currently an Artist Diploma student in piano at the [Guildhall School of Music and Drama](https://www.gsmd.ac.uk/). I recently completed my doctorate in music; my dissertation is ["The Reciprocal Interaction of Musical Performance and Analysis"](https://academicworks.cuny.edu/gc_etds/5754/).
+I am a pianist and programmer. I work part time as an ML Dev at [Neostella](https://www.neostella.com/about/), and am currently an Artist Diploma student in piano at the [Guildhall School of Music and Drama](https://www.gsmd.ac.uk/). I recently completed my doctorate in music; my dissertation is ["The Reciprocal Interaction of Musical Performance and Analysis"](https://academicworks.cuny.edu/gc_etds/5754/).
 
 During my doctorate, I held a Digital Fellowship through the Graduate Center's Digital Initiatives (GCDI). In this capacity, I led workshops on digital skills, held consultations, ran the Python User Group, and helped develop various other projects and initiatives. In the summer of 2024, I taught the GC Summer Python Intensive.
 
